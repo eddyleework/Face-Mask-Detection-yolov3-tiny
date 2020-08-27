@@ -2,5 +2,5 @@
 
 - trained weights with 700 files for both (poor data...)
 
-- download these weight and cfg files( https://drive.google.com/drive/folders/1A9KDMyYSX1FHAjBd5xSlWHzSqZCrRIs8?usp=sharing  ) 
-  and add in folder (weight_cfg_dir)
+- download weight and cfg files( https://drive.google.com/drive/folders/1A9KDMyYSX1FHAjBd5xSlWHzSqZCrRIs8?usp=sharing  ) 
+  and add in folde (../mask_detection/weight_cfg_dir )
